@@ -1,0 +1,25 @@
+.js{
+    border-radius: 8px;
+    height: 200px;
+    width: 600px;
+    background: rgba(127, 255, 0,0.6);
+}
+body{
+    background: #00f1a1;
+}
+.js1{
+    border-radius: 8px;
+    height: 210px;
+    width: 740px;
+    background: rgba(127, 255, 0,0.6);
+    margin-right: 60px;
+    margin-left: 80px;
+    position: relative;
+    float: right;
+}
+h1, h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
